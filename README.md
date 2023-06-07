@@ -2,8 +2,9 @@
     <h1>&#128075; Hello! I'm Vincent.</h1>
     <p> <strong>About me &#10024;</strong> </p>
     <p>I am an aspiring Web Developer and student on my last year at BCIT's Computer Information Technology program. </p>
-    <p> <strong>Languages I code with</strong> </p>
+    <p> <strong>What I know so far</strong> </p>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
     
 </div>
