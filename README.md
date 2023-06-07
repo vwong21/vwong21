@@ -1,7 +1,11 @@
 <div>
     <h1>&#128075; Hello! I'm Vincent.</h1>
-    <p font-size="5rem"> <strong>About me &#10024;</strong> </p>
-    <p>I am an aspiring Web Developer and student on my last year at BCIT </p>
+    <p> <strong>About me &#10024;</strong> </p>
+    <p>I am an aspiring Web Developer and student on my last year at BCIT's Computer Information Technology program. </p>
+    <p> <strong>Languages I code with</strong> </p>
+    <div>
+        	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    </div
     
 </div>
 
