@@ -1,4 +1,4 @@
-<div>
+<div id="header" align="center">
   <strong>
     Vincent Wong 
   </strong>
