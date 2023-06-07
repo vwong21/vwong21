@@ -1,4 +1,4 @@
-### VINCENT WONG
+### Vincent Wong 
 I am an aspiring Web Developer on my last year at British Columbia Institute of Technology's Computer Information Technology program. 
 <!--
 **vwong21/vwong21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
