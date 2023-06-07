@@ -1,6 +1,8 @@
 <div align = "center">
-  ### Vincent Wong 
- <div>
+  <strong>
+    Vincent Wong 
+  </strong>
+ </div>
 I am an aspiring Web Developer on my last year at British Columbia Institute of Technology's Computer Information Technology program. 
 <div>
   <
