@@ -1,5 +1,6 @@
 <div>
     <h1>&#128075; Hello! I'm Vincent.</h1>
+    <h2>About me &#10024;</h2>
     <p>I am an aspiring Web Developer and student on my last year at BCIT </p>
     
 </div>
