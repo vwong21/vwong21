@@ -1,7 +1,8 @@
 <div>
     <h1>&#128075; Hello! I'm Vincent.</h1>
+    <p>I am an aspiring Web Developer and student on my last year at BCIT </p>
+    
 </div>
-I am an aspiring Web Developer on my last year at British Columbia Institute of Technology's Computer Information Technology program. 
 
 <!--
 **vwong21/vwong21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
