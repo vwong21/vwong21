@@ -1,4 +1,4 @@
-<div id="header">
+<div>
   <strong>
     Vincent Wong 
   </strong>
