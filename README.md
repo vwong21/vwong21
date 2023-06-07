@@ -1,5 +1,5 @@
 <div>
-    <h1>Hello! Vincent Wong</h1>
+    <h1>&#128187; Hello! I'm Vincent.</h1>
 </div>
 I am an aspiring Web Developer on my last year at British Columbia Institute of Technology's Computer Information Technology program. 
 
