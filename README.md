@@ -10,9 +10,6 @@ I am an aspiring Web Developer and student on my final year at BCIT's Computer I
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vwong21&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vwong21&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vwong21&icon=0&color=0)](https://visitcount.itsvg.in)
 
