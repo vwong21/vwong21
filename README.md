@@ -15,4 +15,3 @@ I love connecting with new people, you can reach me at vincentwong5609@gmail.com
 ---
 [![](https://visitcount.itsvg.in/api?id=vwong21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
